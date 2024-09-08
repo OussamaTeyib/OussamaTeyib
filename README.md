@@ -14,6 +14,8 @@ I'm a young, passionate programmer with a deep love for coding and problem-solvi
 
 ### 📈 Stats & Badges:
 - **Public Contributions:**
+
 [![committers.top badge](https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg)](https://user-badge.committers.top/mauritania_public/OussamaTeyib)
 - **Total Contributions:**
+
 [![committers.top badge](https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg)](https://user-badge.committers.top/mauritania_private/OussamaTeyib)
