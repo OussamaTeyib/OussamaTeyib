@@ -8,11 +8,11 @@
 - I started my journey mastering C, and since then, I've expanded my skill set to include Python and Kotlin.
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge">
 </a>
 
 ### 🌐 Languages & Technologies:
-<div style="text-align: left;">
+<div align="left">
   <strong>Programming Languages:</strong><br>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
@@ -43,19 +43,19 @@
 ### Connect with me
 <div align="left">
   <a href="https://www.facebook.com/OussamaTeyib" target="_blank">
-    <img height=20 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" />
+    <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" />
   </a>
   <a href="https://x.com/OussamaTeyib" target="_blank">
-    <img height=20 src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" />
+    <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" />
   </a>
   <a href="https://www.linkedin.com/in/OussamaTeyib" target="_blank">
-    <img height=20 src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" />
+    <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" />
   </a>
-  <a href="[https://orcid.org/your-orcid-id](https://orcid.org/0009-0008-0248-1545)" target="_blank">
-    <img height=20 src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" />
+  <a href=https://orcid.org/0009-0008-0248-1545" target="_blank">
+    <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" />
   </a>
   <a href="mailto: oussama.teyib@gmail.com">
-    <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" />
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" />
   </a>
 </div>
 
@@ -76,7 +76,7 @@
 </div>
 
 ### 🏆 Achievements:
-<div style="text-align: left;">
+<div align="left">
   <strong>Top Public Contributions in Mauritania:</stronh><br>
   <a href="https://committers.top/mauritania_public">
     <img src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg" alt="Public Contributions">
