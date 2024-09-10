@@ -22,7 +22,14 @@
 - 🎯 Contributing to open-source projects.
 
 ### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=OussamaTeyib&show_icons=true&theme=dark" width="400">
+
+   [![OussamaTeyib's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussamaTeyib&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OussamaTeyib's Top Languages"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OussamaTeyib's Github Stats"/>
+  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaTeyib&&theme=tokyonight" alt="OussamaTeyib's Github Streak" />
 
 ### 🏆 Achievements:
 - **Top Public Contributions in Mauritania**:  
