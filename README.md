@@ -22,21 +22,23 @@
 - 🎯 Contributing to open-source projects.
 
 ### 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height=130 src="https://github-readme-stats.vercel.app/api?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OussamaTeyib's Github Stats"/>
-</a>
+<div align="centre">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=130 src="https://github-readme-stats.vercel.app/api?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OussamaTeyib's Github Stats"/>
+  </a>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height=130 src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaTeyib&&theme=tokyonight" alt="OussamaTeyib's Github Streak" />
-</a>
+  </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OussamaTeyib's Top Languages" />
-</a>
+  </a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img height=120 src="https://github-readme-activity-graph.vercel.app/graph?username=OussamaTeyib&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true" alt="OussamaTeyib's Activity Graph" />
-</a>
+  </a>
+</div>
 
 ### 🏆 Achievements:
 - **Top Public Contributions in Mauritania**:  
