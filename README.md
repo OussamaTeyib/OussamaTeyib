@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge">
 </a>
 
-### 🧰 Languages & Technologies:
+### 🌐 Languages & Technologies:
 <div align="left">
   <strong>Programming Languages:</strong><br>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -40,7 +40,7 @@
 - 📱 Learning Kotlin and delving into Android development.
 - 🎯 Contributing to open-source projects.
 
-### 🌐 Connect with me:
+### 📞 Connect with me:
 <div align="left">
   <a href="https://www.facebook.com/OussamaTeyib">
     <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" />
