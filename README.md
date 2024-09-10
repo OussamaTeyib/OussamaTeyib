@@ -55,14 +55,4 @@
 </div>
 
 ### 🏆 Achievements:
-<div style="text-align: left;">
-  <strong>Top Public Contributions in Mauritania:</stronh><br>
-  <a href="https://committers.top/mauritania_public">
-    <img src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg" alt="Public Contributions">
-  </a>
 
-  <br><strong>Top Total Contributions in Mauritania:</strong><br>
-  <a href="https://committers.top/mauritania_private">
-    <img src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg" alt="Total Contributions">
-  </a>
-</div>
