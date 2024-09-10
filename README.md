@@ -26,7 +26,7 @@
   </a>
   
   <br><strong>Web Technologies:</strong><br>
-  <a href="https://en.wikipedia.org/wiki/HTML5">
+  <a href="https://en.wikipedia.org/wiki/HTML">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS">
