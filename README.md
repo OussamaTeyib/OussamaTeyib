@@ -7,6 +7,9 @@
 
 - I started my journey mastering C, and since then, I've expanded my skill set to include Python and Kotlin.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&label=Profile%20views&color=0e75b6&style=flat" alt="OussamaTeyib's profile views" /> </p>
+
+
 ### 🌐 Languages & Technologies:
 - **Programming Languages:**  
   ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) 
