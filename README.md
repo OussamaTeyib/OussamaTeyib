@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge">
 </a>
 
-### 🌐 Languages & Technologies:
+### 🧰 Languages & Technologies:
 <div align="left">
   <strong>Programming Languages:</strong><br>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
