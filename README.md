@@ -40,7 +40,7 @@
 - 📱 Learning Kotlin and delving into Android development.
 - 🎯 Contributing to open-source projects.
 
-### Connect with me
+### 🌐 Connect with me:
 <div align="left">
   <a href="https://www.facebook.com/OussamaTeyib">
     <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" />
