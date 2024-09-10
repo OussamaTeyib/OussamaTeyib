@@ -1,7 +1,7 @@
 <!--
 **OussamaTeyib/OussamaTeyib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Hi 👋, I am Oussama  
+## Hi 👋, I'm Oussama  
 
 - I'm a passionate, self-taught programmer from Mauritania, with a deep love for coding and problem-solving.
 
@@ -56,12 +56,12 @@
 
 ### 🏆 Achievements:
 <div style="text-align: left;">
-  <strong>Top Public Contributions in Mauritania:</strong><br>
+  <bold>Top Public Contributions in Mauritania:</bold><br>
   <a href="https://committers.top/mauritania_public">
     <img src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg" alt="Public Contributions">
   </a>
 
-  <br><strong>Top Total Contributions in Mauritania:</strong><br>
+  <br><bold>Top Total Contributions in Mauritania:</bold><br>
   <a href="https://committers.top/mauritania_private">
     <img src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg" alt="Total Contributions">
   </a>
