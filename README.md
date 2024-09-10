@@ -22,7 +22,7 @@
 - 🎯 Contributing to open-source projects.
 
 ### 📊 GitHub Stats:
-<div align="centre">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=130 src="https://github-readme-stats.vercel.app/api?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OussamaTeyib's Github Stats"/>
   </a>
