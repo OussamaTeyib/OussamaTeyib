@@ -42,16 +42,16 @@
 
 ### Connect with me
 <div align="left">
-  <a href="https://www.facebook.com/OussamaTeyib" target="_blank">
+  <a href="https://www.facebook.com/OussamaTeyib">
     <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" />
   </a>
-  <a href="https://x.com/OussamaTeyib" target="_blank">
+  <a href="https://x.com/OussamaTeyib">
     <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" />
   </a>
-  <a href="https://www.linkedin.com/in/OussamaTeyib" target="_blank">
+  <a href="https://www.linkedin.com/in/OussamaTeyib">
     <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" />
   </a>
-  <a href=https://orcid.org/0009-0008-0248-1545" target="_blank">
+  <a href="https://orcid.org/0009-0008-0248-1545">
     <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" />
   </a>
   <a href="mailto: oussama.teyib@gmail.com">
