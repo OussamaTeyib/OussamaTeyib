@@ -8,31 +8,31 @@
 - I started my journey mastering C, and since then, I've expanded my skill set to include Python and Kotlin.
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge" alt="Profile Views" />
 </a>
 
 ### 🌐 Languages & Technologies:
 <div align="left">
   <strong>Programming Languages:</strong><br>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
-    <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+    <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   </a>
   <a href="https://en.wikipedia.org/wiki/MATLAB">
-    <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="Matlab">
+    <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="Matlab" />
   </a>
   
   <br><strong>Web Technologies:</strong><br>
   <a href="https://en.wikipedia.org/wiki/HTML">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   </a>
 </div>
 
@@ -62,7 +62,7 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=130 src="https://github-readme-stats-gamma-five-23.vercel.app/api?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Github Stats"/>
+    <img height=130 src="https://github-readme-stats-gamma-five-23.vercel.app/api?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Github Stats" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height=130 src="https://streak-stats.demolab.com/?user=OussamaTeyib&&theme=tokyonight" alt="Github Streak Stats" />
