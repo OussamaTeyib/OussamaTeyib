@@ -60,6 +60,10 @@
 </div>
 
 ### 📊 GitHub Stats:
+<!--
+To include private stats (especially detailed stats) and to improve perfromance, it is recommended to deploy your own instances.
+For Streak Stats and Activity Graph, private stats are shown by default (without own deployment) if "Private contributions" in "Contribution settings" is turned on.
+-->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=130 src="https://github-readme-stats-gamma-five-23.vercel.app/api?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Github Stats" />
@@ -71,7 +75,7 @@
     <img height=140 src="https://github-readme-stats-gamma-five-23.vercel.app/api/top-langs?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img height=120 src="https://github-readme-activity-graph.vercel.app/graph?username=OussamaTeyib&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true" alt="Github Activity Graph" />
+    <img height=120 src="https://github-readme-activity-graph-oussama.vercel.app/graph?username=OussamaTeyib&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true" alt="Github Activity Graph" />
   </a>
 </div>
 
