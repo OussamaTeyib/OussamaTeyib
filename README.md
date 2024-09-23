@@ -69,7 +69,7 @@ For Streak Stats and Activity Graph, private stats are shown by default (without
     <img height=130 src="https://github-readme-stats-oussamateyib.vercel.app/api?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Github Stats" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height=130 src="https://streak-stats.demolab.com/?user=OussamaTeyib&&theme=tokyonight" alt="Github Streak Stats" />
+    <img height=130 src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&&theme=tokyonight" alt="Github Streak Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=140 src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
