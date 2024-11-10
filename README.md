@@ -1,9 +1,14 @@
 <!--
 **OussamaTeyib/OussamaTeyib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Hi 👋, I'm Oussama  
+<p align="center" ><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=100px></p>
 
-- I'm a passionate, self-taught programmer from Mauritania, with a deep love for coding and problem-solving.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+</div>
+
+## 🙋🏻 About Me:
+- I'm a passionate, self-taught programmer, with a deep love for coding and problem-solving.
 
 - I started my journey mastering C, and since then, I've expanded my skill set to include Python and Kotlin.
 
@@ -11,33 +16,14 @@
   <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge" alt="Profile Views" />
 </a>
 
-### 🌐 Languages & Technologies:
-<div align="left">
-  <strong>Programming Languages:</strong><br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
-    <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/MATLAB">
-    <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="Matlab" />
-  </a>
-  
-  <br><strong>Web Technologies:</strong><br>
-  <a href="https://en.wikipedia.org/wiki/HTML">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/CSS">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
+### 🌐 Languages & Tools:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,kotlin,matlab,html,css" />
+  <img src="https://skillicons.dev/icons?i=cmake,markdown,github" />
 </div>
-
+  
 ### 💻 Current Focus:
-- 📱 Learning Kotlin and delving into Android development.
+- 📱 Learning raylib and delving into Android development.
 - 🎯 Contributing to open-source projects.
 
 ### 📞 Connect with me:
