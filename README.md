@@ -8,6 +8,7 @@
 </div>
 
 ## 🙋🏻 About Me:
+
 - I'm a passionate, self-taught programmer, with a deep love for coding and problem-solving.
 
 - I started my journey mastering C, and since then, I've expanded my skill set to include Python and Kotlin.
@@ -16,43 +17,26 @@
   <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge" alt="Profile Views" />
 </a>
 
-### 🌐 Languages & Tools:
+### 🌐 Languages & Technologies:
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,python,kotlin,matlab,html,css" />
   <img src="https://skillicons.dev/icons?i=cmake,markdown,github" />
 </div>
   
 ### 💻 Current Focus:
+
 - 📱 Learning raylib and delving into Android development.
 - 🎯 Contributing to open-source projects.
 
 ### 📞 Connect with me:
 
-
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/OussamaTeyib"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/OussamaTeyib"><img alt="Github" title="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://facebook.com/OussamaTeyib"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="oussama.teyib@gmail.com"><img alt="email" title="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   <a href="http://X.com/OussamaTeyib"><img alt="X" title="X" src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:oussama.teyib@gmail.com"><img alt="email" title="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   <a href="http://X.com/OussamaTeyib"><img alt="X" title="X" src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
     <a href="https://orcid.org/0009-0008-0248-1545"><img alt="X" title="X" src="https://img.shields.io/badge/ORCID-1DA1F2?style=for-the-badge&logo=orcid&logoColor=white"></a>
-</p>
-
-<div align="left">
-  <a href="https://www.facebook.com/OussamaTeyib">
-    <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" />
-  </a>
-  <a href="https://x.com/OussamaTeyib">
-    <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" />
-  </a>
-  <a href="https://www.linkedin.com/in/OussamaTeyib">
-    <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" />
-  </a>
-  <a href="">
-    <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" />
-  </a>
-  <a href="mailto: oussama.teyib@gmail.com">
-    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" />
-  </a>
 </div>
 
 ### 📊 GitHub Stats:
