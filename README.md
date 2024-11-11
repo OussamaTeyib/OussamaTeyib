@@ -21,7 +21,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,python,kotlin,matlab,html,css" />
-  <img src="https://skillicons.dev/icons?i=cmake,markdown,github" />
+  <img src="https://skillicons.dev/icons?i=markdown,cmake,git,github" />
 </div>
   
 ### 💻 Current Focus:
