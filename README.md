@@ -27,6 +27,14 @@
 - 🎯 Contributing to open-source projects.
 
 ### 📞 Connect with me:
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/OussamaTeyib"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/OussamaTeyib"><img alt="Github" title="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://facebook.com/OussamaTeyib"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="oussama.teyib@gmail.com"><img alt="email" title="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   <a href="http://X.com/OussamaTeyib"><img alt="X" title="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
 <div align="left">
   <a href="https://www.facebook.com/OussamaTeyib">
     <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" />
