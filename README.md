@@ -33,7 +33,9 @@
   <a href="https://linkedin.com/in/OussamaTeyib"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/OussamaTeyib"><img alt="Github" title="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://facebook.com/OussamaTeyib"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="oussama.teyib@gmail.com"><img alt="email" title="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   <a href="http://X.com/OussamaTeyib"><img alt="X" title="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="oussama.teyib@gmail.com"><img alt="email" title="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   <a href="http://X.com/OussamaTeyib"><img alt="X" title="X" src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
+    <a href="https://orcid.org/0009-0008-0248-1545"><img alt="X" title="X" src="https://img.shields.io/badge/ORCID-1DA1F2?style=for-the-badge&logo=orcid&logoColor=white"></a>
+</p>
 
 <div align="left">
   <a href="https://www.facebook.com/OussamaTeyib">
@@ -45,7 +47,7 @@
   <a href="https://www.linkedin.com/in/OussamaTeyib">
     <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" />
   </a>
-  <a href="https://orcid.org/0009-0008-0248-1545">
+  <a href="">
     <img height=30 margin-right=10 src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" />
   </a>
   <a href="mailto: oussama.teyib@gmail.com">
