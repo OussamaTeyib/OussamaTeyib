@@ -58,7 +58,7 @@ For Streak Stats and Activity Graph, private stats are shown by default (without
   </a>
   <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img height=120 src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph?username=OussamaTeyib&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true" alt="Github Activity Graph" />
+    <img height=140 src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph?username=OussamaTeyib&area=true&theme=tokyo-night" alt="Github Activity Graph" />
   </a>
 </div>
 
@@ -66,11 +66,11 @@ For Streak Stats and Activity Graph, private stats are shown by default (without
 <div align="left">
   <strong>Top Public Contributions in Mauritania:</stronh><br>
   <a href="https://committers.top/mauritania_public">
-    <img src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg" alt="Public Contributions">
+    <img src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg" alt="Public Contributions Rank">
   </a>
 
   <br><strong>Top Total Contributions in Mauritania:</strong><br>
   <a href="https://committers.top/mauritania_private">
-    <img src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg" alt="Total Contributions">
+    <img src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg" alt="Total Contributions Rank">
   </a>
 </div>
