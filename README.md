@@ -54,7 +54,7 @@ For Streak Stats and Activity Graph, private stats are shown by default (without
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=140 src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs?username=OussamaTeyib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img height=140 src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs?username=OussamaTeyib&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
   <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
