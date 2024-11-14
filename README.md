@@ -32,11 +32,24 @@
 ### 📞 Connect with me:
 
 <div align="center">
-  <a href="https://linkedin.com/in/OussamaTeyib"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/OussamaTeyib"><img alt="Github" title="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://facebook.com/OussamaTeyib"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="mailto:oussama.teyib@gmail.com"><img alt="email" title="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   <a href="http://X.com/OussamaTeyib"><img alt="X" title="X" src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
-    <a href="https://orcid.org/0009-0008-0248-1545"><img alt="X" title="X" src="https://img.shields.io/badge/ORCID-1DA1F2?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="https://linkedin.com/in/OussamaTeyib">
+    <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/OussamaTeyib">
+    <img alt="Github" title="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://facebook.com/OussamaTeyib">
+    <img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="mailto:oussama.teyib@gmail.com">
+    <img alt="email" title="email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="http://X.com/OussamaTeyib">
+    <img alt="X" title="X" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://orcid.org/0009-0008-0248-1545">
+    <img alt="ORCID" title="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+  </a>
 </div>
 
 ### 📊 GitHub Stats:
