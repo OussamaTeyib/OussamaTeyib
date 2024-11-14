@@ -3,10 +3,8 @@
 -->
 <div align="center" >
   <img src="https://github.com/OussamaTeyib/OussamaTeyib/blob/main/assets/about_me.gif?raw=true" width=100px alt="About Me" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" alt="Hi There! 👋" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" alt="Hi There" />
 </div>
 
 ## 🙋🏻 About Me:
@@ -22,8 +20,8 @@
 ### 🌐 Languages & Technologies:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,kotlin,matlab,html,css" />
-  <img src="https://skillicons.dev/icons?i=markdown,cmake,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,python,kotlin,matlab,html,css" alt="Languages & Technologies" />
+  <img src="https://skillicons.dev/icons?i=markdown,cmake,git,github" alt="Languages & Technologies" />
 </div>
   
 ### 💻 Current Focus:
@@ -66,13 +64,15 @@ For Streak Stats and Activity Graph, private stats are shown by default (without
 
 ### 🏆 Achievements:
 <div align="left">
-  <strong>Top Public Contributions in Mauritania:</stronh><br>
+  <strong>Top Public Contributions in Mauritania:</strong>
+  <br>
   <a href="https://committers.top/mauritania_public">
-    <img src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg" alt="Public Contributions Rank">
+    <img src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg" alt="Public Contributions Rank" >
   </a>
-
-  <br><strong>Top Total Contributions in Mauritania:</strong><br>
+  <br>
+  <strong>Top Total Contributions in Mauritania:</strong>
+  <br>
   <a href="https://committers.top/mauritania_private">
-    <img src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg" alt="Total Contributions Rank">
+    <img src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg" alt="Total Contributions Rank" >
   </a>
 </div>
