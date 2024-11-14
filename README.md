@@ -45,7 +45,7 @@
     <img alt="email" title="email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="http://X.com/OussamaTeyib">
-    <img alt="X" title="X" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white">
+    <img alt="X" title="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://orcid.org/0009-0008-0248-1545">
     <img alt="ORCID" title="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
