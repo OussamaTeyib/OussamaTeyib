@@ -20,8 +20,10 @@
 ### 🌐 Languages & Technologies:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,kotlin,matlab,html,css" alt="Languages & Technologies" />
-  <img src="https://skillicons.dev/icons?i=markdown,cmake,git,github" alt="Languages & Technologies" />
+  <a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=c,python,kotlin,matlab,html,css" alt="Languages & Technologies" />
+    <img src="https://skillicons.dev/icons?i=markdown,cmake,git,github,arduino" alt="Languages & Technologies" />
+  </a>
 </div>
   
 ### 💻 Current Focus:
