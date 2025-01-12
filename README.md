@@ -21,8 +21,8 @@
 
 <div align="center">
   <a href="https://github.com/ixrzr/skills-icons">
-    <img src="https://skills-icons.vercel.app/api/icons?i=c,python,kotlin,matlab,html,css" alt="Languages & Technologies" />
-    <img src="https://skills-icons.vercel.app/api/icons?i=markdown,git,github,arduino" alt="Languages & Technologies" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=c,python,kotlin,matlab,html,css,markdown" alt="Languages & Technologies" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=raylib,box2d,cmake,git,github,arduino" alt="Languages & Technologies" />
   </a>
 </div>
   
