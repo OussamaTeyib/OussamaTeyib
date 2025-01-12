@@ -2,9 +2,11 @@
 **OussamaTeyib/OussamaTeyib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div align="center" >
-  <img src="https://github.com/OussamaTeyib/OussamaTeyib/blob/main/assets/about_me.gif?raw=true" width=100px alt="About Me" />
+  <img src="https://github.com/OussamaTeyib/OussamaTeyib/blob/main/assets/about_me.gif" width=100px alt="About Me" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" alt="Hi There" />
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" alt="Hi There!" />
+  </a>
 </div>
 
 ## 🙋🏻 About Me:
@@ -28,7 +30,7 @@
   
 ### 💻 Current Focus:
 
-- 📱 Learning raylib and delving into Android development.
+- 📱 Learning raylib and Box2D, along with diving deeper into Android development.
 - 🎯 Contributing to open-source projects.
 
 ### 📞 Connect with me:
