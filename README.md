@@ -67,7 +67,7 @@ For Streak Stats and Activity Graph, private stats are shown by default (without
   </a>
   <br>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height=130 src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&&theme=tokyonight" alt="Github Streak Stats" />
+    <img height=130 src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&theme=tokyonight" alt="Github Streak Stats" />
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
