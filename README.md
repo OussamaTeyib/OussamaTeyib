@@ -11,9 +11,9 @@
 
 ## 🙋🏻 About Me:
 
-- I'm a passionate, self-taught programmer, with a deep love for coding and problem-solving.
+- I’m a passionate, self-taught programmer with a deep love for coding and problem-solving.
 
-- I started my journey mastering C, and since then, I've expanded my skill set to include Python and Kotlin.
+- I'm skilled in C and Python programming and currently diving into the world of embedded systems.
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge" alt="Profile Views" />
@@ -23,14 +23,14 @@
 
 <div align="center">
   <a href="https://github.com/ixrzr/skills-icons">
-    <img src="https://skills-icons.vercel.app/api/icons?i=c,python,kotlin,matlab,html,css,markdown" alt="Languages & Technologies" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=c,python,java,html,css,markdown,matlab" alt="Languages & Technologies" />
     <img src="https://skills-icons.vercel.app/api/icons?i=raylib,box2d,cmake,git,github,arduino" alt="Languages & Technologies" />
   </a>
 </div>
   
 ### 💻 Current Focus:
 
-- 📱 Learning raylib and Box2D, along with diving deeper into Android development.
+- 🖥️ Learning about embedded systems: Gaining hands-on experience with microcontrollers, sensors, actuators, and low-level programming.
 - 🎯 Contributing to open-source projects.
 
 ### 📞 Connect with me:
