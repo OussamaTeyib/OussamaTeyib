@@ -92,14 +92,11 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
 
 <h3>🥇 Ranking</h3>
 
-<strong>Top Public Contributions in Mauritania:</strong>
-<br/>
+<h4>Top Public Contributions in Mauritania:</h4>
 <a href="https://committers.top/mauritania_public">
   <img alt="OussamaTeyib's Public Contributions Rank" src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg"/>
 </a>
-<br/>
-<strong>Top Total Contributions in Mauritania:</strong>
-<br/>
+<h4>Top Total Contributions in Mauritania:</h4>
 <a href="https://committers.top/mauritania_private">
   <img alt="OussamaTeyib's Total Contributions Rank" src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg"/>
 </a>
