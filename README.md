@@ -9,7 +9,7 @@
   </a>
 </div>
 
-## 🙋🏻 About Me:
+<h2>🙋🏻 About Me</h2>
 
 - I’m a passionate, self-taught programmer with a deep love for coding and problem-solving.
 
@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge" alt="Profile Views" />
 </a>
 
-### 🌐 Languages & Technologies:
+<h2>🌐 Languages & Technologies</h2>
 
 <div align="center">
   <a href="https://github.com/ixrzr/skills-icons">
@@ -28,12 +28,12 @@
   </a>
 </div>
   
-### 💻 Current Focus:
+<h2>💻 Current Focus</h2>
 
 - 🖥️ Learning about embedded systems: Gaining hands-on experience with microcontrollers, sensors, actuators, and low-level programming.
 - 🎯 Contributing to open-source projects.
 
-### 📞 Connect with me:
+<h2>📞 Connect with me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/OussamaTeyib">
@@ -56,31 +56,31 @@
   </a>
 </div>
 
-### 📊 GitHub Stats:
-<!--
-To include private stats (especially detailed stats) and to improve perfromance, it is recommended to deploy your own instances.
-For Streak Stats and Activity Graph, private stats are shown by default (without own deployment) if "Private contributions" in "Contribution settings" is turned on.
--->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=130 src="https://github-readme-stats-oussamateyib.vercel.app/api?username=OussamaTeyib&show_icons=true&layout=compact&theme=tokyonight" alt="Github Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height=130 src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&theme=tokyonight" alt="Github Streak Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=140 src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs?username=OussamaTeyib&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-  <br>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img height=140 src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph?username=OussamaTeyib&area=true&theme=tokyo-night" alt="Github Activity Graph" />
-  </a>
-</div>
+<h2>📊 Stats and Activity</h2>
+  <!--
+  To include private stats (especially detailed stats) and to improve perfromance, it is recommended to deploy your own instances.
+  For Streak Stats and Activity Graph, private stats are shown by default (without own deployment) if "Private contributions" in "Contribution settings" is turned on.
+  -->
 
-### 🏆 Achievements:
-<div align="left">
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <img alt="OussamaTeyib's streak stats" src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&theme=tokyonight&hide_border=true&short_numbers=true"/>
+
+  <h3>💻 Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="192px"/>
+  <img alt="OussamaTeyib's Top Languages" src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" height="192px"/>
+  <br/>
+
+  <h3>📉 Contribution Graph</h3>
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <img alt="OussamaTeyib's Activity Graph" src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&hide_border=true&theme=tokyo-night" />
+
+  <h3>🥇 Ranking</h3>
+
   <strong>Top Public Contributions in Mauritania:</strong>
   <br>
   <a href="https://committers.top/mauritania_public">
@@ -92,4 +92,3 @@ For Streak Stats and Activity Graph, private stats are shown by default (without
   <a href="https://committers.top/mauritania_private">
     <img src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg" alt="Total Contributions Rank" >
   </a>
-</div>
