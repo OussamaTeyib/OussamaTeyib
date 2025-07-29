@@ -3,7 +3,7 @@
 -->
 <div align="center" >
   <img alt="About Me" src="https://github.com/OussamaTeyib/OussamaTeyib/blob/main/assets/about_me.gif" width=100px/>
-  <br>
+  <br/>
   <!-- https://github.com/denvercoder1/readme-typing-svg -->
   <a href="https://github.com/denvercoder1/readme-typing-svg">
     <img alt="Hi There!" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;"/>
@@ -60,46 +60,46 @@
 </div>
 
 <h2>📊 Stats and Activity</h2>
-  <!--
-  To include private stats (especially detailed stats) and to improve perfromance, it is recommended to deploy your own instances.
-  For Streak Stats and Activity Graph, private stats are shown by default (without own deployment) if "Private contributions" in "Contribution settings" is turned on.
-  -->
+<!--
+To include private stats (especially detailed stats) and to improve perfromance, it is recommended to deploy your own instances.
+For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by default (without own deployment) if "Private contributions" in "Contribution settings" is turned on.
+-->
 
-  <h3>🔥 Streak Stats</h3>
+<h3>🔥 Streak Stats</h3>
 
-  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="OussamaTeyib's streak stats" src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&theme=tokyonight&hide_border=true&short_numbers=true"/>
-  </a>
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img alt="OussamaTeyib's streak stats" src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&theme=tokyonight&hide_border=true&short_numbers=true"/>
+</a>
 
-  <h3>💻 Profile Stats</h3>
+<h3>💻 Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="OussamaTeyib's Top Languages" src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" height="192px"/>
-  </a>
-  <br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="OussamaTeyib's Top Languages" src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" height="192px"/>
+</a>
+<br/>
 
-  <h3>📉 Contribution Graph</h3>
+<h3>📉 Contribution Graph</h3>
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="OussamaTeyib's Activity Graph" src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&hide_border=true&theme=tokyo-night"/>
-  </a>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="OussamaTeyib's Activity Graph" src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&hide_border=true&theme=tokyo-night"/>
+</a>
 
-  <h3>🥇 Ranking</h3>
+<h3>🥇 Ranking</h3>
 
-  <strong>Top Public Contributions in Mauritania:</strong>
-  <br>
-  <a href="https://committers.top/mauritania_public">
-    <img alt="OussamaTeyib's Public Contributions Rank" src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg"/>
-  </a>
-  <br>
-  <strong>Top Total Contributions in Mauritania:</strong>
-  <br>
-  <a href="https://committers.top/mauritania_private">
-    <img alt="OussamaTeyib's Total Contributions Rank" src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg"/>
-  </a>
+<strong>Top Public Contributions in Mauritania:</strong>
+<br/>
+<a href="https://committers.top/mauritania_public">
+  <img alt="OussamaTeyib's Public Contributions Rank" src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg"/>
+</a>
+<br/>
+<strong>Top Total Contributions in Mauritania:</strong>
+<br/>
+<a href="https://committers.top/mauritania_private">
+  <img alt="OussamaTeyib's Total Contributions Rank" src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg"/>
+</a>
