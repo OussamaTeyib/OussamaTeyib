@@ -12,9 +12,7 @@
 
 <h2>🙋🏻 About Me</h2>
 
-- I’m a passionate, self-taught programmer with a deep love for coding and problem-solving.
-
-- I'm skilled in C and Python programming and currently diving into the world of embedded systems.
+I’m a passionate, self-taught programmer with a deep love for coding, problem-solving, and continuous learning. I specialize in C and Python programming, and I’m currently diving into the world of embedded systems, where I enjoy exploring the intersection of hardware and software. I’m a strong supporter of Free and Open Source Software (FOSS) and believe in the power of collaborative development and knowledge sharing to drive innovation and accessibility in technology.
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
