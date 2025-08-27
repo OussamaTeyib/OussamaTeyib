@@ -26,14 +26,14 @@
 <!-- https://github.com/ixrzr/skills-icons -->
 <div align="center">
   <a href="https://github.com/ixrzr/skills-icons">
-    <img alt="Languages & Technologies" src="https://skills-icons.vercel.app/api/icons?i=c,kotlin,python,java,html,css,markdown,android"/>
-    <img alt="Languages & Technologies" src="https://skills-icons.vercel.app/api/icons?i=raylib,box2d,gradle,cmake,git,github,arduino,matlab"/>
+    <img alt="OussamaTeyib's Skills" src="https://skills-icons.vercel.app/api/icons?i=c,kotlin,python,java,html,css,markdown,android"/>
+    <img alt="OussamaTeyib's Skills" src="https://skills-icons.vercel.app/api/icons?i=raylib,box2d,gradle,cmake,git,github,arduino,matlab"/>
   </a>
 </div>
   
 <h2>💻 Current Focus</h2>
 
-- 🖥️ Learning about embedded systems: Gaining hands-on experience with microcontrollers, sensors, actuators, and low-level programming.
+- 🖥️ Learning about embedded systems.
 - 🎯 Contributing to open-source projects.
 
 <h2>📞 Connect with me</h2>
@@ -45,14 +45,8 @@
   <a href="https://github.com/OussamaTeyib">
     <img alt="OussamaTeyib's Github" title="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/OussamaTeyib">
-    <img alt="OussamaTeyib's Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
   <a href="mailto:oussama.teyib@gmail.com">
     <img alt="OussamaTeyib's email" title="email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="http://X.com/OussamaTeyib">
-    <img alt="OussamaTeyib's X" title="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://orcid.org/0009-0008-0248-1545">
     <img alt="OussamaTeyib's ORCID" title="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
