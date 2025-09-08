@@ -21,7 +21,7 @@
   <img alt="OussamaTeyib's Profile Views" src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge"/>
 </a>
 
-<h2>🌐 Languages & Technologies</h2>
+<h2>🌐 Skills</h2>
 
 <!-- https://github.com/ixrzr/skills-icons -->
 <div align="center">
@@ -32,6 +32,7 @@
   
 <h2>💻 Current Focus</h2>
 
+- 📱 Learning Kotlin and Jetpack Compose.
 - 🖥️ Learning about embedded systems.
 - 🎯 Contributing to open-source projects.
 
