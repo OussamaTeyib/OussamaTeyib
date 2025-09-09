@@ -26,7 +26,7 @@
 <!-- https://github.com/ixrzr/skills-icons -->
 <div align="center">
   <a href="https://github.com/ixrzr/skills-icons">
-    <img alt="OussamaTeyib's Skills" src="https://skills-icons.vercel.app/api/icons?i=c,cmake,llvm,python,java,kotlin,matlab,arduino,android,jetpackcompose,androidstudio,gradle,apktool,raylib,raygui,box2d,html,css,xml,markdown,toml,yaml,git,github,curl,busybox,gnu,msys2,cmder,drmemory,winapi,visualstudiocode,notepadplusplus"/>
+    <img alt="OussamaTeyib's Skills" src="https://skills-icons.vercel.app/api/icons?i=c,kotlin,python,java,matlab,android,jetpackcompose,raylib,raygui,box2d,arduino,winapi,html,css,xml,markdown,toml,yaml,git,github,busybox,gnu,llvm,cmake,gradle,curl,apktool,drmemory,msys2,cmder,notepadplusplus,androidstudio,visualstudiocode"/>
   </a>
 </div>
   
