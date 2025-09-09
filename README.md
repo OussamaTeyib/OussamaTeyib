@@ -21,7 +21,7 @@
   <img alt="OussamaTeyib's Profile Views" src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge"/>
 </a>
 
-<h2>🌐 Skills</h2>
+<h2>🧠 Skills</h2>
 
 <!-- https://github.com/ixrzr/skills-icons -->
 <div align="center">
@@ -30,11 +30,11 @@
   </a>
 </div>
   
-<h2>💻 Current Focus</h2>
+<h2>🎯 Current Focus</h2>
 
 - 📱 Learning Kotlin and Jetpack Compose.
-- 🖥️ Learning about embedded systems.
-- 🎯 Contributing to open-source projects.
+- 💻 Learning about embedded systems.
+- 🤝 Contributing to open-source projects.
 
 <h2>📞 Connect with me</h2>
 
@@ -66,7 +66,7 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
   <img alt="OussamaTeyib's streak stats" src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&theme=tokyonight&hide_border=true&short_numbers=true"/>
 </a>
 
-<h3>💻 Profile Stats</h3>
+<h3>👤 Profile Stats</h3>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -77,7 +77,7 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
 </a>
 <br/>
 
-<h3>📉 Contribution Graph</h3>
+<h3>📈 Contribution Graph</h3>
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
