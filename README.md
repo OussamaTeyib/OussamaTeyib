@@ -12,9 +12,9 @@
 
 <h2>🙋🏻 About Me</h2>
 
-- I’m a passionate, self-taught programmer with a deep love for coding, problem-solving, and continuous learning.
-- I specialize in C and Python programming, and I’m currently diving into the world of embedded systems, where I enjoy exploring the intersection of hardware and software.
-- I’m a strong supporter of Free and Open Source Software (FOSS) and believe in the power of collaborative development and knowledge sharing to drive innovation and accessibility in technology.
+- I’m a passionate, self-taught programmer with a love for coding, problem-solving, and continuous learning.
+- I specialize in C and Python, and I’m currently diving into embedded systems, exploring the intersection of hardware and software.
+- I’m a strong supporter of Free and Open Source Software (FOSS) and believe in the power of collaborative development to drive innovation and accessibility.
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -32,9 +32,9 @@
   
 <h2>🎯 Current Focus</h2>
 
-- 📱 Learning Kotlin and Jetpack Compose.
-- 💻 Learning about embedded systems.
-- 🤝 Contributing to open-source projects.
+- 📱 Learning Kotlin and Jetpack Compose
+- 💻 Learning about embedded systems
+- 🤝 Contributing to open-source projects
 
 <h2>📞 Connect with me</h2>
 
