@@ -76,8 +76,8 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight-duo">
-    <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight-duo" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default">
+    <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" />
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
