@@ -98,14 +98,3 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
     <img alt="OussamaTeyib's Activity Graph" src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&hide_border=true&theme=github-light" />
   </picture>
 </a>
-
-<h3>🥇 Ranking</h3>
-
-<h4>Top Public Contributions in Mauritania:</h4>
-<a href="https://committers.top/mauritania_public">
-  <img alt="OussamaTeyib's Public Contributions Rank" src="https://user-badge.committers.top/mauritania_public/OussamaTeyib.svg"/>
-</a>
-<h4>Top Total Contributions in Mauritania:</h4>
-<a href="https://committers.top/mauritania_private">
-  <img alt="OussamaTeyib's Total Contributions Rank" src="https://user-badge.committers.top/mauritania_private/OussamaTeyib.svg"/>
-</a>
