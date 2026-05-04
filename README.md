@@ -16,11 +16,6 @@
 - I’m currently diving into the world of embedded systems, exploring the intersection of hardware and software.
 - I’m a strong supporter of Free and Open Source Software (FOSS) and believe in the power of collaboration to drive innovation and accessibility.
 
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img alt="OussamaTeyib's Profile Views" src="https://komarev.com/ghpvc/?username=OussamaTeyib&style=for-the-badge"/>
-</a>
-
 <h2>🧠 Skills</h2>
 
 <!-- https://github.com/ixrzr/skills-icons -->
