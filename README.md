@@ -60,7 +60,7 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&theme=tokyonight">
-    <img alt="OussamaTeyib's streak stats" src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&theme=default" />
+    <img alt="OussamaTeyib's streak stats" src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib" />
   </picture>
 </a>
 
@@ -68,14 +68,14 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&show=reviews&hide_border=true&theme=tokyonight">
-    <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&show=reviews&hide_border=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&theme=tokyonight">
+    <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&show=reviews,discussions_answered" />
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=10&layout=compact&hide_border=true&theme=tokyonight&exclude_repo=github-readme-streak-stats">
-    <img alt="OussamaTeyib's Top Languages" src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=10&layout=compact&hide_border=true&theme=tokyonight-duo&exclude_repo=github-readme-streak-stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=6&layout=donut&theme=tokyonight">
+    <img alt="OussamaTeyib's Top Languages" src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=6&layout=donut" />
   </picture>
 </a>
 
@@ -84,7 +84,7 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&hide_border=true&theme=tokyo-night">
-    <img alt="OussamaTeyib's Activity Graph" src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&hide_border=true&theme=github-light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&theme=tokyo-night">
+    <img alt="OussamaTeyib's Activity Graph" src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&theme=github-light" />
   </picture>
 </a>
