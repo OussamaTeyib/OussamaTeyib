@@ -68,8 +68,8 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&theme=tokyonight">
-    <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&show=reviews,discussions_answered" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&theme=tokyonight">
+    <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered" />
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
