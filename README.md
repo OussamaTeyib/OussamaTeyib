@@ -66,19 +66,16 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
 </a>
 
 <h3>👤 Profile Stats</h3>
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&count_private=true&show=reviews&hide_border=true&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&count_private=true&show=reviews&hide_border=true&theme=default">
-    <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&count_private=true&show=reviews&hide_border=true&theme=default" />
+    <img alt="OussamaTeyib's Github Stats" src="https://github-readme-stats-oussamateyib.vercel.app/api/?username=OussamaTeyib&show_icons=true&count_private=true&include_all_commits=true&show=reviews&hide_border=true&theme=default" />
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=10&layout=compact&hide_border=true&theme=tokyonight&exclude_repo=github-readme-streak-stats">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=10&layout=compact&hide_border=true&theme=tokyonight-duo&exclude_repo=github-readme-streak-stats">
     <img alt="OussamaTeyib's Top Languages" src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=10&layout=compact&hide_border=true&theme=tokyonight-duo&exclude_repo=github-readme-streak-stats" />
   </picture>
 </a>
@@ -89,7 +86,6 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&hide_border=true&theme=tokyo-night">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&hide_border=true&theme=github-light">
     <img alt="OussamaTeyib's Activity Graph" src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&hide_border=true&theme=github-light" />
   </picture>
 </a>
