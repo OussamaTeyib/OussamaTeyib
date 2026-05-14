@@ -59,9 +59,8 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&hide_border=true&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&hide_border=true&theme=default">
-    <img alt="OussamaTeyib's streak stats" src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&hide_border=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&theme=tokyonight">
+    <img alt="OussamaTeyib's streak stats" src="https://github-readme-streak-stats-oussamateyib.vercel.app/?user=OussamaTeyib&theme=default" />
   </picture>
 </a>
 
