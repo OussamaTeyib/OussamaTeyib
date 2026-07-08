@@ -78,13 +78,3 @@ For Streak Stats, GitHub Stats, and Activity Graph, private stats are shown by d
     <img alt="OussamaTeyib's Top Languages" src="https://github-readme-stats-oussamateyib.vercel.app/api/top-langs/?username=OussamaTeyib&langs_count=6&layout=donut" />
   </picture>
 </a>
-
-<h3>📈 Contribution Graph</h3>
-  
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&theme=tokyo-night">
-    <img alt="OussamaTeyib's Activity Graph" src="https://github-readme-activity-graph-oussamateyib.vercel.app/graph/?username=OussamaTeyib&theme=github-light" />
-  </picture>
-</a>
